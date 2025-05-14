@@ -10,9 +10,9 @@ export function CartItemDetails({ cartItem }) {
         <span>
           Quantity: <span className="quantity-label">{cartItem.quantity}</span>
         </span>
-        <span className="update-quantity-link link-primary">Update</span>
-        <span className="delete-quantity-link link-primary">Delete</span>
       </div>
+      <span className="update-quantity-link link-primary">Update</span>
+      <span className="delete-quantity-link link-primary">Delete</span>
     </div>
   );
 }

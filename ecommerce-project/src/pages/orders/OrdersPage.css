@@ -136,6 +136,7 @@
 }
 
 .orders-page .buy-again-button {
+  color: black;
   font-size: 14px;
   width: 140px;
   height: 36px;
@@ -147,6 +148,7 @@
 }
 
 .orders-page .buy-again-icon {
+  filter: invert(1);
   width: 20px;
   margin-right: 10px;
 }
