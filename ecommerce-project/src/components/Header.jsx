@@ -1,4 +1,5 @@
 import { NavLink } from "react-router";
+import { GoSearch } from "react-icons/go";
 import "./Header.css";
 
 export function Header({ cart }) {
@@ -22,7 +23,7 @@ export function Header({ cart }) {
           <input className="search-bar" type="text" placeholder="Search" />
 
           <button className="search-button">
-            <img className="search-icon" src="images/icons/search-icon.png" />
+            <GoSearch size="20px" />
           </button>
         </div>
 

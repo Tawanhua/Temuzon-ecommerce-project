@@ -112,7 +112,7 @@
 }
 
 .home-page .product-rating-count {
-  color: rgb(25, 135, 84);
+  color: black;
   cursor: auto;
   margin-top: 3px;
 }
@@ -150,6 +150,7 @@
 }
 
 .home-page .add-to-cart-button {
+  color: black;
   width: 100%;
   padding: 8px;
   height: 34px;
