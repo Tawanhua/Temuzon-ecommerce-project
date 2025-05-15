@@ -7,6 +7,7 @@ import { useEffect, useState } from "react";
 import axios from "axios";
 import "./App.css";
 
+// axios.post('/api/reset') to default
 window.axios = axios;
 
 function App() {
