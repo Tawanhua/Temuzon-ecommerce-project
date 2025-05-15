@@ -149,7 +149,6 @@
 }
 
 .orders-page .buy-again-icon {
-  filter: invert(1);
   width: 20px;
   margin-right: 10px;
 }
