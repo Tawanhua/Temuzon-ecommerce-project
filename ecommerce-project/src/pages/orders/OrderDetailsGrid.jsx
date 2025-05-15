@@ -33,6 +33,11 @@ export function OrderDetailsGrid({ order }) {
                   Track package
                 </button>
               </a>
+              <a>
+                <button className="cancel-button button-secondary">
+                  Cancel
+                </button>
+              </a>
             </div>{" "}
           </Fragment>
         );
