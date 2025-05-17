@@ -1,6 +1,10 @@
 # Ecommerce Project
 
-The frontend of the Task Manager Application is developed using React.js, a popular JavaScript library for building user interfaces. It provides a responsive and intuitive user interface for managing tasks efficiently. The frontend communicates with the backend through RESTful API endpoints, enabling seamless interaction with task-related data.
+The frontend of the Ecommerce Application is built with React.js, providing a modern, responsive, and user-friendly interface for browsing products, managing the shopping cart, and placing orders. It interacts with the backend via RESTful API endpoints to fetch product data, handle cart operations, process orders, and track deliveries, ensuring a seamless shopping experience for users.
+
+The backend of the Ecommerce Application is developed using Node.js and Express.js, providing a robust RESTful API for managing products, user authentication, shopping carts, and order processing. It handles business logic, data validation, and securely interacts with a database to store and retrieve ecommerce data. The backend ensures reliable communication with the frontend, enabling dynamic product listings, secure checkout, and order management functionalities.
+
+Tech Stack: ReactJS using JS, ExpressJS, NodeJS, SQLite, Sequelize
 
 In the project directory, you can run:
 
