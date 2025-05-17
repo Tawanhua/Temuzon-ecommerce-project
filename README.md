@@ -10,9 +10,9 @@ In the project directory, you can run:
 
 ### `npm run dev`
 
-<!---![Screenshot 2024-05-11 043357](https://github.com/Tawanhua/trackmaster-client/assets/64333670/cd529d21-1baf-4d52-9948-f06076f22dc7)--->
-
-<!---![Screenshot 2024-05-11 043426](https://github.com/Tawanhua/trackmaster-client/assets/64333670/6384eb89-6253-4ba5-b6c6-4d2a8a2bfc85)--->
+![Screenshot 2025-05-17 033346](https://github.com/user-attachments/assets/3e08cb58-b2cc-465f-b6b5-a3ab4ce84685)
+![Screenshot 2025-05-17 033226](https://github.com/user-attachments/assets/d2b8565a-c094-41ae-ae75-0092fa63ce25)
+![Screenshot 2025-05-17 033317](https://github.com/user-attachments/assets/1185a78c-4bd3-4897-9402-a4f49f4f9b22)
 
 ## Project Description
 
