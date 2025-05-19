@@ -2,24 +2,25 @@ version: "3.8"
 
 services:
   backend:
-    build:
-      context: ./ecommerce-backend
-      dockerfile: dockerfile
+    build: ./ecommerce-backend
     ports:
       - "3000:3000"
     volumes:
-      - ./ecommerce-backend:/app
-      - /app/node_modules
-    environment:
-      - NODE_ENV=development
+      - sqlite_data:/app/data
+    networks:
+      - app-network
 
   frontend:
-    build:
-      context: ./ecommerce-project
-      dockerfile: dockerfile
+    build: ./ecommerce-project
     ports:
-      - "3001:80"
-    depends_on:
-      - backend
+      - "5173:5173"
+    networks:
+      - app-network
     environment:
-      - NODE_ENV=production
+      - VITE_API_URL=http://backend:3000
+
+volumes:
+  sqlite_data:
+
+networks:
+  app-network:

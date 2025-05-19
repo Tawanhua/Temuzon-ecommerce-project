@@ -11,6 +11,9 @@ RUN npm install
 # Copy the rest of the application code
 COPY . .
 
+# Ensure the database folder is created
+RUN mkdir -p data
+
 # Expose backend port (change if your backend uses a different port)
 EXPOSE 3000
 
