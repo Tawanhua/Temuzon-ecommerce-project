@@ -10,7 +10,7 @@ In the project directories, you can run locally:
 
 ### `npm run dev`
 
-![Screenshot 2025-05-17 033346](https://github.com/user-attachments/assets/3e08cb58-b2cc-465f-b6b5-a3ab4ce84685)
+![Screenshot 2025-05-19 004419](https://github.com/user-attachments/assets/1c8cb377-baba-4935-920f-7f968aaeaa0a)
 ![Screenshot 2025-05-17 033226](https://github.com/user-attachments/assets/d2b8565a-c094-41ae-ae75-0092fa63ce25)
 ![Screenshot 2025-05-17 033317](https://github.com/user-attachments/assets/1185a78c-4bd3-4897-9402-a4f49f4f9b22)
 
