@@ -45,6 +45,7 @@
 
 .tracking-page .current-status {
   color: rgb(0, 130, 150);
+  font-weight: bold;
 }
 
 @media (max-width: 575px) {
