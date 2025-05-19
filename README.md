@@ -6,7 +6,7 @@ The backend of the Ecommerce Application is developed using Node.js and Express.
 
 Tech Stack: ReactJS using JS, ExpressJS, NodeJS, SQLite, Sequelize
 
-In the project directory, you can run:
+In the project directories, you can run locally:
 
 ### `npm run dev`
 
